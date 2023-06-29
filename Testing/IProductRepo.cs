@@ -18,6 +18,7 @@ namespace Testing
 
         public Product AssignCategory();
 
+        public void DeleteProduct(Product product);
 
     }
 }
