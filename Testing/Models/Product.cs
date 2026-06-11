@@ -7,7 +7,6 @@ public class Product
 {
     public Product()
     {
-        
     }
     
     public int ProductID { get; set; }
